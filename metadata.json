@@ -1,0 +1,6 @@
+{
+  "name": "Telegraphia — Morse Code Studio & Spaced Repetition",
+  "description": "Step-by-step interactive Morse code academy featuring visual mnemonics, dichotomic signal trees, Web Audio CW synthesis, real-world decoding simulations, and SM-2 spaced repetition.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
